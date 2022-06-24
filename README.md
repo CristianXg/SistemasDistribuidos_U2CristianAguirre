@@ -1,1 +1,1 @@
-# SistemasDistribuidos_U2CristianAguirre
+# SistemasDistribuidos Unidad 2 Practicas en Clase CristianAguirre
